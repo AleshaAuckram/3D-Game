@@ -1,11 +1,10 @@
 # 3D Game
 
-A brief description of what this project does.
+It is a obstacle game. try to avoid the obstacles as best as you can to complete the game.
+You play as an alien and must pass through the obstacles to avoid falling or touching the obstacles. Watch out there is a timer.
 
 ## Technologies Used
-- React
-- Material-UI
-- CSS/HTML
+- c #
 
 ## GitHub Repo
-[Link to the GitHub repository]
+(https://github.com/AleshaAuckram/3D-Game.git)
